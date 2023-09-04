@@ -1,2 +1,2 @@
-I first used cloning method. 
+I first used the cloning method. 
 Then I used VSCode to push changes to my github repository.
