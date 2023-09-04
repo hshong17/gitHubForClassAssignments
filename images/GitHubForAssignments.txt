@@ -1,2 +1,2 @@
-I already used cloning method. 
-Then I will use VSCode to push changes to my github repository.
+I first used cloning method. 
+Then I used VSCode to push changes to my github repository.
